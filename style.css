@@ -5,6 +5,10 @@ body {
     font-family: "Poppins", sans-serif
 }
 
+.navbar{
+    background-color: #e86464 !important;
+    color: #eee !important;
+}
 .card {
     background-color: #fff;
     padding: 14px;
@@ -86,7 +90,7 @@ hr {
 }
 
 .buttons {
-    margin-top: 15px
+    margin-top: 15px;
 }
 
 .buttons .btn {
@@ -95,7 +99,7 @@ hr {
 
 .buttons .cart {
     border-color: #ff7676;
-    color: #ff7676
+    color: #ff7676;
 }
 
 .buttons .cart:hover {
